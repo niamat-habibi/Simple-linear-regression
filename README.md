@@ -81,7 +81,7 @@ Feel free to contribute by improving the project, adding more visualizations, or
 
 ## 📌 Author
 
-[Your Name](https://www.linkedin.com/in/your-profile/)
+[Niamat Habibi](https://www.linkedin.com/in/niamatullah-habibi)
 
 ---
 
