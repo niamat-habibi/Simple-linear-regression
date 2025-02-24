@@ -9,6 +9,7 @@ This project demonstrates the use of **Simple Linear Regression** to model the r
 - The dataset includes marketing campaign data for TV, radio, and social media advertisements, along with the corresponding sales revenue.
 - The primary focus of this study is on the **Radio promotion budget** and **Sales revenue**.
 - The dataset used is fictional and was designed for educational purposes.
+- 📂 **Download the dataset**: [marketing_sales_data.csv](https://drive.google.com/file/d/1BWQfmdeW83BXIgXCDQHPxPLczmcv55Fs/view?usp=sharing)
 
 ## 🏗️ Project Structure
 
