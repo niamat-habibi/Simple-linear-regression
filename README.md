@@ -63,7 +63,7 @@ This project demonstrates the use of **Simple Linear Regression** to model the r
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/simple-linear-regression.git
+   git clone https://github.com/niamat-habibi/simple-linear-regression.git
    ```
 2. Navigate to the project folder:
    ```bash
