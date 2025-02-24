@@ -82,8 +82,3 @@ Feel free to contribute by improving the project, adding more visualizations, or
 ## 📌 Author
 
 [Niamat Habibi](https://www.linkedin.com/in/niamatullah-habibi)
-
----
-
-✅ **Don't forget to upload this project to GitHub and share it on LinkedIn to showcase your skills!** 🚀
-
