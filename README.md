@@ -13,7 +13,7 @@ This project demonstrates the use of **Simple Linear Regression** to model the r
 ## 🏗️ Project Structure
 
 ```
-├── Cleaned_Simple_Linear_Regression.ipynb  # Jupyter Notebook with cleaned code and analysis
+├── Simple_Linear_Regression.ipynb  # Jupyter Notebook with cleaned code and analysis
 ├── Exemplar_Run simple linear regression.pdf  # Original project reference (optional)
 ├── marketing_sales_data.csv  # Dataset (Ensure it is uploaded in the repo)
 └── README.md  # Project documentation
